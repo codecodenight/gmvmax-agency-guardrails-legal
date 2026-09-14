@@ -1,7 +1,7 @@
 # Privacy Policy — gmvmax-agency-guardrails
 
-**Effective date:** 2026-09-09
-**Publisher:** Global Trade ("we", "us")
+**Effective date:** 2026-09-14
+**Publisher:** HK XINGLIAN LIMITED ("we", "us")
 **Applies to:** the `gmvmax-agency-guardrails` Skill package distributed via TikTok for Business Agentic Hub, and all files distributed with it.
 
 ---

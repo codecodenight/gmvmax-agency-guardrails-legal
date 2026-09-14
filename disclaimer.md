@@ -1,6 +1,6 @@
 # Hosted Legal Disclaimer — gmvmax-agency-guardrails
 
-**Effective date:** 2026-09-09
+**Effective date:** 2026-09-14
 
 ---
 
@@ -79,7 +79,7 @@ contact address below so it can be corrected.
 
 ---
 
-- **Publisher:** Global Trade
+- **Publisher:** HK XINGLIAN LIMITED
 - **Contact:** nichao@hzglobaltrade.com
 - **Version:** 0.1.0
 - **Applies to:** `gmvmax-agency-guardrails` and all files distributed with it

@@ -4,7 +4,7 @@ title: gmvmax-agency-guardrails — Legal
 
 # gmvmax-agency-guardrails — Legal notices
 
-Publisher: Global Trade · Contact: nichao@hzglobaltrade.com
+Publisher: HK XINGLIAN LIMITED · Contact: nichao@hzglobaltrade.com
 
 - [Legal Disclaimer and Scope of Responsibility](disclaimer.html)
 - [Privacy Policy](privacy-policy.html)
